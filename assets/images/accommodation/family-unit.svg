@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#26351f"/><stop offset="1" stop-color="#a28d5e"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<circle cx="950" cy="150" r="90" fill="#e8d39b" opacity=".45"/>
+<path d="M0 610 Q240 470 480 620 T1200 570 V800 H0Z" fill="#172016" opacity=".8"/>
+<text x="600" y="365" text-anchor="middle" fill="white" font-family="Georgia" font-size="54">Family Units</text>
+<text x="600" y="420" text-anchor="middle" fill="#eee" font-family="Arial" font-size="24">Replace with family room photograph</text>
+</svg>
